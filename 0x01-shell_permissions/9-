@@ -1,0 +1,2 @@
+#!/bin/bash John_Doe
+chmod 753 hello John_Doe
